@@ -1,0 +1,54 @@
+
+
+
+nav{
+	overflow: hidden;
+	background-color: grey;
+/*	position: fixed;*/
+
+}
+.top-Greg{
+	color:black;
+
+	
+}
+ul li{
+display: inline-block;
+}
+ul li a{
+	text-decoration: none;
+}
+.right-menu{
+	float: right;
+	margin-right: 120px;
+
+}
+.container{
+	margin: 100px;
+}
+.pagination{
+	border:1px solid grey;
+	
+}
+.grey-text{
+	color: grey;
+}
+.blue-text{
+	color: blue;
+}
+
+.pagination{
+	width: 200px;
+	padding: 5px;
+	margin-top: 15px;
+}
+input,button{
+	padding: 5px;
+
+}
+input{
+	width: 450px;
+}
+div>p{
+margin-top: 20px;
+}
